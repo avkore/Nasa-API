@@ -1,7 +1,7 @@
 # Nasa_API
 
-This project was created to generate and show you some rover images with the id you enter. It uses NASA Mars Rover Photos API to gain info.
-Function prints 3 different things: 1)Camera Name 2)Photo URL and 3) Date when this picture was captured
+This project was created to generate and show you some mars rover taken images with the id number you enter. <br/> It uses NASA Mars Rover Photos API to gain info.<br/>
+Function prints 3 different things: Camera Name, Photo URL and Date when this picture was captured. <br/>
 Programm also records each information in database with autoincremented id.
-
+<br/>
 Hope you guys enjoy it. <3
